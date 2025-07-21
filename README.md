@@ -1,2 +1,0 @@
-# chemicalbydesign
-My personal portfolio!
